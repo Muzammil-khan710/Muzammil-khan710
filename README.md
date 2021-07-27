@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muzammil khan
+- 👋 Hi, I’m Muzammil khan
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML,CSS,JavaScript,React
 <!---
