@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Muzammil khan
-- ![](https://komarev.com/ghpvc/?username=Muzammil-khan710)
+- 👋 Hi, I’m Muzammil khan ![](https://komarev.com/ghpvc/?username=Muzammil-khan710)
 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML,CSS,JavaScript,React
