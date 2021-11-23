@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muzammil khan ![](https://komarev.com/ghpvc/?username=Muzammil-khan710)
 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML,CSS,JavaScript,React
+- 🌱 I’m currently learning MERN Stack
 <!---
 muzzk/muzzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
